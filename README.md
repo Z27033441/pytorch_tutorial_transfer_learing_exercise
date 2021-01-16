@@ -1,0 +1,5 @@
+# pytorch_tutorial_transfer_learing_exercise
+自己的学习记录，没什么价值
+
+#test_0文件为pytorch官方教程迁移学习代码注释
+#keras_test_0为keras官方教程根据影评预测电影正负面
